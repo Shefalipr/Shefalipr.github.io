@@ -1,20 +1,4 @@
-/*========QUICK WORKAROUND FOR SCROLL JITTER ADDRESS BAR HIDE MOBILE DEVICE*/
-/*
-@media only screen and (max-width:768px){
-html, body {
-  height: 100%;
-}
 
-#scrollable-content {
-  height: 100%;
-  overflow-y: scroll;
-}
-}
-@media only screen and (max-width:450px){
-.navbar{width: 98%}
-}
-*/
-/*========Ends WORKAROUND FOR SCROLL JITTER ADDRESS BAR HIDE MOBILE DEVICE*/
 
 
 body{position:relative;letter-spacing:0.09em;font-family:Comfortaa;}
